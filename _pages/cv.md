@@ -15,6 +15,9 @@ Universidad de la República
 * B.S. Economics, 2017. 
 * M.S. Economics, 2018-Now (Completed all Courses, Thesis Pending)
 
+Universidad ORT Uruguay
+* Diploma in Quantitative Methods-Statistics and Econometrics, 2017
+
 Work experience
 ======
 * 2017-On Research Assistant-Centro de Investigaciones Económicas (CINVE)
