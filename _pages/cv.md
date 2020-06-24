@@ -20,7 +20,8 @@ Universidad ORT Uruguay
 
 Work experience
 ======
-* 2017-On Research Assistant-Centro de Investigaciones Económicas (CINVE)
+* 2017-Now: Research Assistant-Centro de Investigaciones Económicas (CINVE)
+            Research Includes:
   * Health Economics
   * Trade and Agricultural Products.
   * Pensions
