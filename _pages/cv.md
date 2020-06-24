@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 Universidad de la República
-* B.S. Economics, 2017. 
+* B.S. Economics, 2013-2016. 
 * M.S. Economics, 2018-Now (Completed all Courses, Thesis Pending)
 
 Universidad ORT Uruguay
