@@ -29,13 +29,13 @@ Work experience
 Skills
 ======
 * Computer Skills
- * R
- * Stata 
- * Matlab
- * Eviews 
- * Demetra 
- * GAMS
- * QGIS
+  * R
+  * Stata 
+  * Matlab
+  * Eviews 
+  * Demetra 
+  * GAMS
+  * QGIS
 * Quant Skills
   * Prediction/Forecasting
   * Causal Inference 
