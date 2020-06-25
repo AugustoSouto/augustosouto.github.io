@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Augusto Souto"
+title: "Personal Web"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
